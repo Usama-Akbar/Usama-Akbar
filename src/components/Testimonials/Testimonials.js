@@ -40,8 +40,8 @@ function Testimonials() {
 
   return (
     <>
-      {testimonialsData.length > 0 &&
-        null
+      {
+        testimonialsData.length > 0 && null
         // <div
         //     className='testimonials'
         //     style={{ backgroundColor: theme.primary }}
