@@ -34,7 +34,7 @@ export const servicesData = [
   },
   {
     id: 2,
-    title: "Front End Development",
+    title: "Shopify App Development",
     icon: <AiOutlineCode />,
   },
   {

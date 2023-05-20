@@ -11,7 +11,7 @@ export const experienceData = [
     company: "QF Network",
     jobtitle: "Mern Stack Developer",
     startYear: "09-2022",
-    endYear: "01-2023",
+    endYear: "04  -2023",
   },
   {
     id: 3,

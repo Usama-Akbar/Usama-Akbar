@@ -2,6 +2,7 @@ export const skillsData = [
   "HTML",
   "photoshop",
   "Javascript",
+  "Wordpress",
   "CSS",
   "React",
   "bootstrap",
