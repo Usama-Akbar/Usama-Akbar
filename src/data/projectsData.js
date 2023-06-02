@@ -31,7 +31,7 @@ export const projectsData = [
       "Neptune Technologies is a leading software development company that provides cutting-edge technology solutions to businesses of all sizes.",
     tags: ["React", "Firebase", "SEO"],
     code: "",
-    demo: "https://usama-akbar.netlify.app/",
+    demo: "https://neptune-technologies.org/",
     image: seven,
   },
   {
