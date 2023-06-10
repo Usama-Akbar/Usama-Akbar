@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import { Button } from "@material-ui/core";
 import { NavHashLink as NavLink } from "react-router-hash-link";
 import { makeStyles } from "@material-ui/core/styles";
-
+import resume from "../../assets/pdf/resume.pdf";
 import "./Landing.css";
 import { ThemeContext } from "../../contexts/ThemeContext";
 import { headerData } from "../../data/headerData";
@@ -160,16 +160,18 @@ function Landing() {
             <p>{headerData.desciption}</p>
 
             <div className="lcr-buttonContainer">
-              {headerData.resumePdf && (
-                <a
-                  href={headerData.resumePdf}
-                  download="resume"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <Button className={classes.resumeBtn}>Download CV</Button>
-                </a>
-              )}
+              <Button
+                onClick={() => {
+                  const link = document.createElement("a");
+                  link.href = resume; // Replace with the actual path to your file in the assets folder
+                  link.download = "resume.pdf"; // Replace with the desired file name
+                  link.click();
+                }}
+                className={classes.resumeBtn}
+              >
+                Download CV
+              </Button>
+
               <NavLink to="/#contacts" smooth={true} spy="true" duration={2000}>
                 <Button className={classes.contactBtn}>Contact</Button>
               </NavLink>
