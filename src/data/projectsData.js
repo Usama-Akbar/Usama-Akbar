@@ -46,12 +46,12 @@ export const projectsData = [
   },
   {
     id: 8,
-    projectName: "Car Mandee",
+    projectName: "Robin Hood",
     projectDesc:
-      "CarMandee is offering sale and purchase of new and used cars in Pakistan. The only car website which is offering cheap cars for sale in Pakistan.",
-    tags: ["Next", "Redux", "SEO", "Node"],
+      "At Robinhood Markets, our values are in service of our customers. We strive to uphold our values every day.",
+    tags: ["Next", "Sentry", "AWS", "Node"],
     code: "",
-    demo: "https://carmandee.com/",
+    demo: "https://robinhood.com/us/en/",
     image: thirteen,
   },
   {
@@ -76,21 +76,22 @@ export const projectsData = [
   },
   {
     id: 4,
-    projectName: "Sawda",
+    projectName: "Info Ki Dunya",
     projectDesc:
-      "An Online Retailer Marketplace that brings you the most popular branded merchandise comprising of the latest and most advanced levels of products.",
-    tags: ["HTML", "CSS", "JS"],
+      "Info Ki Dunya provides Latest News, Islamic Date Today, Gold Rate Today, Finance updates, Mobiles Prices, Live Cricket, Directories, Profiles, Islam.",
+    tags: ["Nextjs", "TailwindCSS", "Node"],
     code: "",
-    demo: "https://sawda.com.pk/",
+    demo: "https://infokidunya.com/ ",
     image: four,
   },
   {
     id: 8,
-    projectName: "Pro Resume City",
-    projectDesc: "Online CV/Resume & Portfolio builder with creative templates",
-    tags: ["React", "MongoDB", "Node", "Express"],
+    projectName: "Get SafePay",
+    projectDesc:
+      "Their vision is to supercharge digital payments in Pakistan. Since 2019, we've put merchants and their customers at the heart of our decisions",
+    tags: ["Webflow"],
     code: "",
-    demo: "https://staging.proresumecity.com/",
+    demo: "https://www.getsafepay.pk/",
     image: eleven,
   },
   {
@@ -112,6 +113,16 @@ export const projectsData = [
     code: "",
     demo: "https://bringimagestolife.netlify.app/",
     image: ten,
+  },
+  {
+    id: 12,
+    projectName: "Mint",
+    projectDesc:
+      "Giving  the opportunity to prosper is the heartbeat of Intuit culture, and we never stop working to find innovative ways to make that possible.",
+    tags: ["React", "Node", "MYSQL", "Express", "Nginx"],
+    code: "",
+    demo: "https://mint.intuit.com/",
+    image: nine,
   },
   //   {
   //     id: 6,

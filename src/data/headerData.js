@@ -6,6 +6,6 @@ export const headerData = {
   title: "Web App Developer",
   desciption:
     "I'm Ambitious to my work with the appreciated skills and confidence even under pressure circumstances.I'd like to learn and work with new technologies.",
-  image: "https://i.ibb.co/HBB93bS/profile.jpg",
+  image: profile,
   resumePdf: resume,
 };
