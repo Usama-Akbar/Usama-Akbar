@@ -15,23 +15,23 @@ import thirteen from "../assets/svg/projects/thirteen.svg";
 export const projectsData = [
   {
     id: 1,
-    projectName: "Orecto Online Shopping",
+    projectName: "Pro Resume City",
     projectDesc:
-      "An Online E-commerece Marketplace that brings you the most popular branded merchandise comprising of the latest and most advanced levels of products.",
-    tags: ["React", "Node", "Express", "Firebase Functions", "SEO", "Redux"],
+      "A resume builder application made on ReactJS.",
+    tags: ["React", "SEO", "Redux"],
     code: "",
-    demo: "https://orecto.pk",
+    demo: "https://proresumecity.netlify.app/",
     image: five,
   },
 
   {
-    id: 9,
+    id: 2,
     projectName: "Neptune Technologies",
     projectDesc:
       "Neptune Technologies is a leading software development company that provides cutting-edge technology solutions to businesses of all sizes.",
-    tags: ["React", "Firebase", "SEO"],
+    tags: ["React", "Animation", "SEO"],
     code: "",
-    demo: "https://neptune-technologies.org/",
+    demo: "https://neptune-technologies.netlify.app/",
     image: seven,
   },
   {
@@ -45,7 +45,7 @@ export const projectsData = [
     image: three,
   },
   {
-    id: 8,
+    id: 4,
     projectName: "Robin Hood",
     projectDesc:
       "At Robinhood Markets, our values are in service of our customers. We strive to uphold our values every day.",
@@ -55,17 +55,7 @@ export const projectsData = [
     image: thirteen,
   },
   {
-    id: 6,
-    projectName: "Open Sawari",
-    projectDesc:
-      "Ride or drive, shop or deliver, send or receive with Open Sawari — offer-your-price mobility app for fair deals. 700+. Cities. 2. billions of rides.",
-    tags: ["Next", "React", "Tailwind", "SEO"],
-    code: "",
-    demo: "https://opensawari.com/",
-    image: six,
-  },
-  {
-    id: 2,
+    id: 5,
     projectName: "Mobala FX",
     projectDesc:
       "This project is about a money trasnfer web app. Its provides us the ability to exchange money internationly through people not from the banks.",
@@ -75,17 +65,7 @@ export const projectsData = [
     image: two,
   },
   {
-    id: 4,
-    projectName: "Info Ki Dunya",
-    projectDesc:
-      "Info Ki Dunya provides Latest News, Islamic Date Today, Gold Rate Today, Finance updates, Mobiles Prices, Live Cricket, Directories, Profiles, Islam.",
-    tags: ["Nextjs", "TailwindCSS", "Node"],
-    code: "",
-    demo: "https://infokidunya.com/ ",
-    image: four,
-  },
-  {
-    id: 8,
+    id: 6,
     projectName: "Get SafePay",
     projectDesc:
       "Their vision is to supercharge digital payments in Pakistan. Since 2019, we've put merchants and their customers at the heart of our decisions",
@@ -95,7 +75,7 @@ export const projectsData = [
     image: eleven,
   },
   {
-    id: 5,
+    id: 7,
     projectName: "Double Horse",
     projectDesc:
       "A Lubricants E-commerce application.The Company's mission is to be a leader in bringing innovative technology to the lubricant category in Pakistan.",
@@ -105,7 +85,7 @@ export const projectsData = [
     image: eight,
   },
   {
-    id: 9,
+    id: 8,
     projectName: "Bring Images to Live",
     projectDesc:
       "Convert Your Images to Reality with our Services We Make Annotations Easy and Collaborative. Connect With Local And Remote Data Sources. Experience the Speed & Ease of AI-Powered",
@@ -115,7 +95,7 @@ export const projectsData = [
     image: ten,
   },
   {
-    id: 12,
+    id: 9,
     projectName: "Mint",
     projectDesc:
       "Giving  the opportunity to prosper is the heartbeat of Intuit culture, and we never stop working to find innovative ways to make that possible.",
@@ -123,6 +103,36 @@ export const projectsData = [
     code: "",
     demo: "https://mint.intuit.com/",
     image: nine,
+  },
+  {
+    id: 10,
+    projectName: "Zappy Chat",
+    projectDesc:
+      "SUPER SMART ZappyChat AI · HARNESS THE POWER OF ARTIFICIAL INTELLIGENCE · Hand your clients a huge value boost by filling their calendars.",
+    tags: ["Vue", "Node", "MYSQL", "Express", "AI",],
+    code: "",
+    demo: "https://app.zappychat.com/",
+    image: twelve,
+  },
+  {
+    id: 11,
+    projectName: "E-commerce Application",
+    projectDesc:
+      "A test e-commerce application built in NextTS.",
+    tags: ["Next", "TS", "Redux", "Tailwind"],
+    code: "",
+    demo: "https://next-basket-bxeb.vercel.app/",
+    image: one,
+  },
+  {
+    id: 12,
+    projectName: "Digital Marketing Application",
+    projectDesc:
+      "A test digital marketing application built in NextTS.",
+    tags: ["React", "TS", "Redux", "MUI"],
+    code: "",
+    demo: "https://taupe-marshmallow-0bab64.netlify.app/",
+    image: four,
   },
   //   {
   //     id: 6,
