@@ -134,6 +134,16 @@ export const projectsData = [
     demo: "https://taupe-marshmallow-0bab64.netlify.app/",
     image: four,
   },
+  {
+    id: 12,
+    projectName: "Know",
+    projectDesc:
+      "Welcome to our revolutionary decentralized identity and access management (DIAM) solution, where security meets simplicity. In today's digital landscape, businesses face increasing challenges in protecting sensitive user data.",
+    tags: ["React", "TS", "Redux", "Theme"],
+    code: "",
+    demo: "https://know-cards.vercel.app/",
+    image: six,
+  },
   //   {
   //     id: 6,
   //     projectName: "Uber Lite",
