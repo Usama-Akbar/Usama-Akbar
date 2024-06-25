@@ -144,6 +144,26 @@ export const projectsData = [
     demo: "https://know-cards.vercel.app/",
     image: six,
   },
+  {
+    id: 13,
+    projectName: "Kreaitor AI",
+    projectDesc:
+      "Welcome to the creators' one stop destination of exploring a range of AI-powered tools. Generate web content, presentations, logos, blogs, images, tweets, etc",
+    tags: ["Next", "TS", "Redux", "Node", "Express"],
+    code: "",
+    demo: "https://www.kreaitor.ai/",
+    image: twelve,
+  },
+  {
+    id: 14,
+    projectName: "Joli Mate",
+    projectDesc:
+      "A Dating app, chating, dating, hanouts, etc",
+    tags: ["React", "JS", "Redux", "Node", "Express"],
+    code: "",
+    demo: "https://joli-mate.vercel.app/",
+    image: three,
+  },
   //   {
   //     id: 6,
   //     projectName: "Uber Lite",
