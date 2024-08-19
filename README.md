@@ -192,7 +192,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 <p> 
  <i>You can reach out to me via</i> 
-&nbsp;<a href="mailto:contact.parthjohri@gmail.com">
+&nbsp;<a href="mailto:usamamehar435@gmail.com">
      <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Gmail.gif"  width="100"/>
  </a>
 </p>
