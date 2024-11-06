@@ -15,15 +15,44 @@ import thirteen from "../assets/svg/projects/thirteen.svg";
 export const projectsData = [
   {
     id: 1,
-    projectName: "Pro Resume City",
+    projectName: "Aconomy",
     projectDesc:
-      "A resume builder application made on ReactJS.",
+      "Aconomy offers a custom platform for digital assets. Earn, exchange, and shop with a marketplace and card designed to simplify your financial journey.",
+    tags: ["Next", "Node", "MongoDB"],
+    code: "",
+    demo: "https://aconomy.com/",
+    image: eleven,
+  },
+  {
+    id: 1,
+    projectName: "Aconomy Dashboard",
+    projectDesc:
+      "Aconomy Dashboard - Crypto Wallet, Exchange, Trade, Marketplace & More",
+    tags: ["Next", "Node", "MongoDB"],
+    code: "",
+    demo: "https://dashboard.aconomy.com",
+    image: seven,
+  },
+  {
+    id: 1,
+    projectName: "Black Card Coin",
+    projectDesc:
+      "Get the best credit card for crypto enthusiasts. Earn rewards, manage crypto payments, and enjoy seamless transactions with top crypto-friendly cards.",
+    tags: ["Next", "Node", "MongoDB"],
+    code: "",
+    demo: "https://blackcardcoin.com/",
+    image: ten,
+  },
+
+  {
+    id: 1,
+    projectName: "Pro Resume City",
+    projectDesc: "A resume builder application made on ReactJS.",
     tags: ["React", "SEO", "Redux"],
     code: "",
     demo: "https://proresumecity.netlify.app/",
     image: five,
   },
-
   {
     id: 2,
     projectName: "Neptune Technologies",
@@ -42,6 +71,16 @@ export const projectsData = [
     tags: ["Node", "Zendesk", "Shopify CLI"],
     code: "",
     demo: "https://apps.shopify.com/helpify24",
+    image: three,
+  },
+  {
+    id: 3,
+    projectName: "Lera Jewellery",
+    projectDesc:
+      "Discover demi-fine jewellery from luxury British brand, L'ERA. 14ct & 18ct Gold Vermeil and Sterling Silver. Free shipping and Free returns.",
+    tags: ["Shopify", "Liquid", "Store"],
+    code: "",
+    demo: "https://lerajewellery.com/",
     image: three,
   },
   {
@@ -109,7 +148,7 @@ export const projectsData = [
     projectName: "Zappy Chat",
     projectDesc:
       "SUPER SMART ZappyChat AI · HARNESS THE POWER OF ARTIFICIAL INTELLIGENCE · Hand your clients a huge value boost by filling their calendars.",
-    tags: ["Vue", "Node", "MYSQL", "Express", "AI",],
+    tags: ["Vue", "Node", "MYSQL", "Express", "AI"],
     code: "",
     demo: "https://app.zappychat.com/",
     image: twelve,
@@ -117,8 +156,7 @@ export const projectsData = [
   {
     id: 11,
     projectName: "E-commerce Application",
-    projectDesc:
-      "A test e-commerce application built in NextTS.",
+    projectDesc: "A test e-commerce application built in NextTS.",
     tags: ["Next", "TS", "Redux", "Tailwind"],
     code: "",
     demo: "https://next-basket-bxeb.vercel.app/",
@@ -127,8 +165,7 @@ export const projectsData = [
   {
     id: 12,
     projectName: "Digital Marketing Application",
-    projectDesc:
-      "A test digital marketing application built in NextTS.",
+    projectDesc: "A test digital marketing application built in NextTS.",
     tags: ["React", "TS", "Redux", "MUI"],
     code: "",
     demo: "https://taupe-marshmallow-0bab64.netlify.app/",
@@ -157,8 +194,7 @@ export const projectsData = [
   {
     id: 14,
     projectName: "Joli Mate",
-    projectDesc:
-      "A Dating app, chating, dating, hanouts, etc",
+    projectDesc: "A Dating app, chating, dating, hanouts, etc",
     tags: ["React", "JS", "Redux", "Node", "Express"],
     code: "",
     demo: "https://joli-mate.vercel.app/",

@@ -1,7 +1,7 @@
 export const experienceData = [
   {
     id: 1,
-    company: "Neptune Technologies",
+    company: "CreativeLogicx",
     jobtitle: "Senior Full Stack Developer",
     startYear: "08-2022",
     endYear: "present",

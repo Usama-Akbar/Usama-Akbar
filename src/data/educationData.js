@@ -11,7 +11,7 @@ export const educationData = [
     institution: "Garrison College For Boys Lahore Cantt",
     course: "I.C.S",
     startYear: "2019",
-    endYear: "2022",
+    endYear: "2021",
   },
   {
     id: 3,
