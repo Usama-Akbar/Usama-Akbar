@@ -15,29 +15,30 @@ Fullstack Developer
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A Versatile Developer Specializing in <strong>MERN Development and DevOps</strong> with a Passion for Continuous Learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
+I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A Versatile Developer Specializing in <strong>MERN Development and DevOps</strong> with a Passion for Continuous Learning. My expertise lies in web3.0, web2.0, development, integration, logic building, optimization, improving user interfaces, and enhancing overall user experiences on frontend/backend both. I thrive on solving challenging problems and creating innovative solutions.
 
 <details>
- <summary><h2> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/about.png" width="37" /> Resume</h2></summary>
- 
- <details>
-  <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/academics.gif"  width="29"/> Academics</h2></summary>
-
-  <span><img src="https://img.shields.io/badge/BTECH-DTU_ECE'24-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-9.45/10.0-EFEEE9?style=for-the-badge"></span>
   
-</details>
  <details>
   <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
-- **Frontend Developer Intern** at Magpie XYZ (Remote) | Jan 2024 - May 2024
-  - Integrated Cakepie, Magpie, Eigenpie pages, facilitating deposits exceeding $800 million.
-  - Enhanced data accuracy by 30% through seamless integration of smart contracts into the front-end.
-  - Improved UI loading speed and mobile responsiveness, reducing user-reported bugs by 20%.
+- **Senior Full Stack Developer** at CreativeLogicx | July 2023 - Present
+  - Working as a Full-Stack Developer in a Scrum team of 6 developers for an Australian-based B2B
+      ecommerce platform for the sale of liquor using cutting edge technologies like JavaScript, TypeScript,
+      ReactJS, React-Hooks, Redux, NextJS, VeuJs, Bootstrap, and GraphQl.
+  - Develop and implement new features, resolve reported bugs, and refactor code to improve the
+      overall functionality and performance of the platform.
+  - Develop real-time pricing, discount, coupon management, deal-builder and report-generator features
+      with a focus on responsive design.
 
-- **Content Strategist - MERN Stack Intern** at TestBook (Remote) | Oct 2022 - Nov 2022
-  - Enhanced interactive coursework modules for data structures and web development, increasing student engagement by 30%.
-  - Mentored over 100 students in DSA & Web Development, significantly improving their technical proficiency.
+- **MERN Stack Intern** at VOH Technologies | Oct 2022 - Jun 2023
+  - Worked as a Full-Stack Engineer for Xanalia, a world-leading decentralized NFT Marketplace for
+Metaverse on ETH, BSC Polygon powered by Chainlink VRF.
+  - Collaborated with a Scrum team of 12+ members to develop the frontend of the platform, utilizing
+technologies such as JavaScript, ReactJS, Web3, React Block-chain, Redux, Redux-thunk, Styled
+Components, Bootstrap, Jest, and Enzyme.
+  - Developed a marketplace to buy and sell NFT’s and integrated different crypto wallets like
+Metamask, Binance and Polygon.
 
 - **Content Writer Intern** at Toppr Learning Inc (Remote) | Jul 2021 - Oct 2021
   - Transformed JEE Mathematics learning for over 10 batches by designing innovative visual-based presentations and solutions.
