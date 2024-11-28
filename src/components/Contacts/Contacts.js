@@ -346,6 +346,17 @@ function Contacts() {
                 </a>
               )}
 
+              {socialsData.medium && (
+                <a
+                  href={socialsData.medium}
+                  target="_blank"
+                  rel="noreferrer"
+                  className={classes.socialIcon}
+                >
+                  <FaMediumM aria-label="Stack Overflow" />
+                </a>
+              )}
+
               {socialsData.gitlab && (
                 <a
                   href={socialsData.gitlab}

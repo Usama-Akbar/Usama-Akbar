@@ -15,6 +15,7 @@ import {
   FaInstagram,
   FaGithub,
   FaYoutube,
+  FaMediumM,
   FaGitlab,
   FaStackOverflow,
   FaBlogger,
@@ -126,6 +127,15 @@ function Landing() {
                   className="landing--social"
                   style={{ color: theme.secondary }}
                   aria-label="GitHub"
+                />
+              </a>
+            )}
+            {socialsData.medium && (
+              <a href={socialsData.medium} target="_blank" rel="noreferrer">
+                <FaMediumM
+                  className="landing--social"
+                  style={{ color: theme.secondary }}
+                  aria-label="Medium"
                 />
               </a>
             )}
