@@ -60,6 +60,9 @@ import strapi from "../assets/svg/skills/strapi.svg";
 import tensorflow from "../assets/svg/skills/tensorflow.svg";
 import webix from "../assets/svg/skills/webix.svg";
 import wordpress from "../assets/svg/skills/wordpress.svg";
+import foundry from "../assets/svg/skills/foundry.svg";
+import solidity from "../assets/svg/skills/solidity.svg";
+import ubuntu from "../assets/svg/skills/ubuntu.svg";
 
 import azure from "../assets/svg/skills/azure.svg";
 import blender from "../assets/svg/skills/blender.svg";
@@ -88,6 +91,10 @@ export const skillsImage = (skill) => {
       return photoshop;
     case "docker":
       return docker;
+    case "solidity":
+      return solidity;
+    case "foundry":
+      return foundry;
     case "illustrator":
       return illustrator;
     case "adobe xd":
@@ -102,6 +109,8 @@ export const skillsImage = (skill) => {
       return javascript;
     case "next js":
       return nextJS;
+    case "ubuntu":
+      return ubuntu;
     case "nuxt js":
       return nuxtJS;
     case "react":

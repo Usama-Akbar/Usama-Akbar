@@ -8,6 +8,8 @@ export const skillsData = [
   "React",
   "next js",
   "ViteJS",
+  "foundry",
+  "solidity",
   "Vue",
   "bootstrap",
   "MaterialUI",
@@ -24,7 +26,7 @@ export const skillsData = [
   "Git",
 
   "AWS",
-  "Ubuntu",
+  "ubuntu",
   "Nginx",
 
   "Wordpress",
