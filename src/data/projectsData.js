@@ -15,6 +15,16 @@ import thirteen from "../assets/svg/projects/thirteen.svg";
 export const projectsData = [
   {
     id: 1,
+    projectName: "Focus Monk",
+    projectDesc:
+      "Focus Monk is a productivity app that helps you stay focused and rewards you for efficient screen time consumption.",
+    tags: ["React", "Node", "Electron"],
+    code: "",
+    demo: "https://focusmonk.app/login",
+    image: thirteen,
+  },
+  {
+    id: 1,
     projectName: "Aconomy",
     projectDesc:
       "Aconomy offers a custom platform for digital assets. Earn, exchange, and shop with a marketplace and card designed to simplify your financial journey.",
@@ -30,7 +40,7 @@ export const projectsData = [
       "Aconomy Dashboard - Crypto Wallet, Exchange, Trade, Marketplace & More",
     tags: ["Next", "Node", "MongoDB"],
     code: "",
-    demo: "https://dashboard.aconomy.com",
+    demo: "https://aconomy-frontend.vercel.app/login",
     image: seven,
   },
   {
@@ -40,7 +50,7 @@ export const projectsData = [
       "Get the best credit card for crypto enthusiasts. Earn rewards, manage crypto payments, and enjoy seamless transactions with top crypto-friendly cards.",
     tags: ["Next", "Node", "MongoDB"],
     code: "",
-    demo: "https://blackcardcoin.com/",
+    demo: "https://bccoinfronent.vercel.app/login",
     image: ten,
   },
 
